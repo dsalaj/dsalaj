@@ -2,7 +2,7 @@
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/darjan-salaj-78599818b/)
-[<img src="https://img.shields.io/badge/my_website-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://florianwilhelm.info/)
+[<img src="https://img.shields.io/badge/my_website-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://dsalaj.com/)
 
 <details>
   <summary>:paw_prints:&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
